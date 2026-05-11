@@ -54,15 +54,6 @@ Jogo 2D desenvolvido em Python onde o objetivo é coletar moedas. Projeto pessoa
 - Programação orientada a objetos com Java
 - Fundamentos de Backend com Python
 
----
-
-## Estatísticas 📊
-
-<div align="center">
-
-![Cauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaaCPaaP&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaaCPaaP&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
